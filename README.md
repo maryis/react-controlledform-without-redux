@@ -13,10 +13,11 @@ a react project with controlled-form concept, fetch api, bootstrap and styling
         smart or .. : maintain state and method to change it
         present  : receive props and display things
     
-    -do search on
+    - do search on:
         - react router
         - react context api instead of redux(both know)
         - react hook
+        - test 
     
     - react is supported by facebook team and is opensource
         so it changes regularly and we need to be up to date
